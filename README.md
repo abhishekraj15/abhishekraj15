@@ -11,7 +11,7 @@
 
 - 📄 Resume : [https://drive.google.com/file/d/1Km8tmaKDAxYj_zuwE9fu5HZe7YiMsC70/view?usp=sharing](https://drive.google.com/file/d/1Km8tmaKDAxYj_zuwE9fu5HZe7YiMsC70/view?usp=sharing)
 
-- ⚡ Fun fact : **I' am an engineer by profession and useless by fate.Smiling Face with Smiling Eyes on Microsoft**
+- ⚡ Fun fact : **I' am an engineer by profession and useless by fate.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
