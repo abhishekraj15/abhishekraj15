@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for a **good job opportunity.**
 
-- 👨‍💻Netlify : [https://thriving-flan-9fd445.netlify.app/](https://thriving-flan-9fd445.netlify.app/)
+- 👨‍💻Netlify : [https://thriving-flan-9fd445.netlify.app/](https://abhishekraj-portfolio.netlify.app/)
 
 - 📫 Mail : **rabhi0766@gmail.com**
 
