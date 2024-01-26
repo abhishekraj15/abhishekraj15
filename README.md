@@ -3,7 +3,7 @@
 
 - 🌱 I’m  **MERN Stack** Developer
 
-- 🤝 I’m looking for a **good job opportunity.**
+- 🤝 Frontend Developer at **Prayraj Xport.**
 
 - 👨‍💻Netlify : [https://abhishekraj-portfolio.netlify.app/](https://rajputabhishek.netlify.app/)
 
