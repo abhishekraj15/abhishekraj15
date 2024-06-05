@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Rajput</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🤝 **Frontend Developer at Prayraj Xport.**
+- 🤝 **Frontend Developer at devlupers.**
 
 - 🌱 **I’m  Reactjs && Nextjs Developer**
 
@@ -9,13 +9,13 @@
 
 - 📄 Resume: [https://drive.google.com/file/d/1ZTc0_U8KPIJXOQZ8LBNQvn-ic_Fk6t1V/view?usp=sharing](https://drive.google.com/file/d/1ZTc0_U8KPIJXOQZ8LBNQvn-ic_Fk6t1V/view?usp=sharing)
 
-- ⚡ Fun fact: [I' am an engineer by profession and useless by fate.](I' am an engineer by profession and useless by fate.)
+- ⚡ Fun fact: I' am an engineer by profession and useless by fate.
 
 - 👨‍💻Portfolio: **https://rajputabhishek.netlify.app/**
 
 - 📫 Mail: **rabhi0766@gmail.com**
 
-- 💬 Ask me about: [Javsscript, Reactjs, Nextjs](Javsscript, Reactjs, Nextjs)
+- 💬 Ask me about: Javsscript, Reactjs, Nextjs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
