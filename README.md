@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Abhishek Rajput</h1>
-<h3 align="center">A Frontend Developer || Tech Stack Mern || Nextjs</h3>
+<h3 align="center">A Frontend Developer</h3>
 
 - 🌱 I’m  **Reactjs && Nextjs** Developer
 
