@@ -10,7 +10,7 @@
 
 - **Frontend Developer at Developers**
 - **Portfolio**: [https://abhishek-rajput.vercel.app/](https://abhishek-rajput.vercel.app/)
-- 📫 **Mail**: rabhi0766@gmail.com
+- 📫 **Mail to**: rabhi0766@gmail.com
 - I build web apps that stand out
 - 💬 **Ask me about**: JavaScript, React.js, Next.js
 - Tech, projects, and shitposting at [Twitter](https://x.com/BroCode1508)
